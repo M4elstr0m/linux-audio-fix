@@ -47,10 +47,10 @@ cd linux-audio-fix
 chmod +x install.sh uninstall.sh
 
 ## install the service
-./install.sh
+sudo ./install.sh
 
 # [4] If you need to uninstall the service for some reason
-./uninstall.sh
+sudo ./uninstall.sh
 ```
 
 ## License
