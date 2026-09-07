@@ -3,6 +3,8 @@ Prevent HDMI audio glitches caused by memory clock frequency transitions on Linu
 
 By [M4elstr0m](https://github.com/M4elstr0m)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=M4elstr0m.linux-audio-fix&left_text=Visitors&right_color=orange)
+
 ## Overview
 
 This is a fix I created for my Arch laptop which had an issue with HDMI audio where audio just stopped randomly before reappearing, especially during downloads.
